@@ -1,3 +1,28 @@
-body {
 
+ h2 {
+  color: Blue; 
+  text-decoration: Underline Overline 10px purple dotted;
+  letter-spacing: 10px;
+  text-shadow: 3px 2px 2px red; 
+}
+
+img src {
+  img src-decoration: 2px; 
+}
+
+body{
+  background-color: Orange; 
+
+
+
+img:hover {
+  width: 300px;
+}
+  
+  h2:hover {
+    text-decoration: underline wavy dotted purple 20px;
+    font-size: 400%;
+    text-transform: uppercase;
+  }
+  
 }
